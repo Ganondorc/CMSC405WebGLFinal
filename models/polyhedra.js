@@ -1,4 +1,6 @@
 /*
+ * https://math.hws.edu/graphicsbook/demos/c3/IFS-polyhedron-viewer.html
+ *
  * This file defines several polyhedral models as JavaScript objects.
  * Each object, poly, has three properties:
  *
